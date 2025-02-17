@@ -1,0 +1,4 @@
+** Buisness Intelligence(BI) vs Business Analytics(BA) vs Desision Support System(DSS) **
+- BI: It is about collecting, analyzing and visulaizing data to help businesses to make better decisions. It involoves charts, dashboards and reports.
+- BA: Focuses on analyzing past data to discover pattern and trends. It uses statistical and predictive methods to help businesses plan for the future.
+- DSS: The tools tools or software that help businesses make decisions using data, models, and analysis.
